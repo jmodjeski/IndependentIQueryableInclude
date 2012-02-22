@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>IndependentIQueryableInclude</id>
+    <version>1.0.0-alpha</version>
+    <authors>joemodjeski</authors>
+    <owners>joemodjeski</owners>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Enables using "Include" on generic IQueryables without a dependency on external libraries</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2012 Joe Modjeski</copyright>
+    <tags>EntityFramework</tags>
+  </metadata>
+</package>
