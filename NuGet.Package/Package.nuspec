@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>IndependentIQueryableInclude</id>
-    <version>1.0.0-alpha</version>
+    <version>1.0.0</version>
     <authors>joemodjeski</authors>
     <owners>joemodjeski</owners>
     <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
